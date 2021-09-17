@@ -1,0 +1,60 @@
+body {
+
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+    background: linear-gradient(rgb(145, 255, 0)20%, rgb(0, 255, 42)80%);
+
+}
+
+.copy_right_footer {
+
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  text-shadow: 5px 5px 5px #6d7475;
+  background-color: cadetblue;
+  margin-top: 40px;
+  bottom: 100%;
+
+}
+
+.header_div {
+
+  background-color: rgb(145, 255, 0);
+
+}
+
+.header_div p {
+
+  font-style: italic;
+  font-size: large;
+
+}
+
+.main-div button {
+
+  font-family: 'Rampart One', cursive;
+  width: 170px;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+
+}
+
+.main-div button:hover {
+
+  font-family: 'Rampart One', cursive;
+  width: 170px;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+
+}
+
+#name {
+
+  font-weight: bold;
+
+}
